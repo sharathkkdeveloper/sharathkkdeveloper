@@ -6,8 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
-Campaign Developer
-SharathKK is an Accenture Team Lead, with over 10 years experience in IT industry.
+Campaign Developer with over 10 years experience in IT industry.
 SharathKK has 5+ years experience in Adobe Campaign
 SharathKK also has experience in Business Analysis, ETL, Database, Webservices, Agile and Functional Testing.
 SharathKK has eexperience in working with various stake holders such as Developers, Product Owners/Clients, and Business Analysts 
